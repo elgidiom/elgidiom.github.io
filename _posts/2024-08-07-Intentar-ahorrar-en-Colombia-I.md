@@ -14,7 +14,7 @@ Algunos de nosotros queremos tener un patrimonio.
 
 > Quiero salvaguardar en este punto que soy consciente que no todos tenemos la capacidad de empezar a acumular capital, sea ahorro o inversión, mas si nuestros ingresos oscilan el salario mínimo.
 
-Empecé a tomar medidas  sobre como administraría mis finanzas. Hasta este punto he aprendido varias cosas de la economía Colombiana, y he organizado bastante bien mis finanzas, tengo un plan de acción convincente, creo, pero estoy algo decepcionado. /acumular capital es desconcertantemente difícil/, el sistema parece estar construido para tener que estar como la imagen, y parece que sale mejor gastar todo el pago que empezar a acumular capital. Además hay una brecha notable, este análisis no aplica si ya de entrada tienes un gran ingreso (1% mas rico del país), o si ya tenías un patrimonio por herencia. Aplica para quienes empezamos con sueldos moderados y no nos queremos quedar en el mismo nivel económico.
+Empecé a tomar medidas  sobre como administraría mis finanzas. Hasta este punto he aprendido varias cosas de la economía Colombiana, y he organizado bastante bien mis finanzas, tengo un plan de acción convincente, creo, pero estoy algo decepcionado. *acumular capital es desconcertantemente difícil*, el sistema parece estar construido para tener que estar como la imagen, y parece que sale mejor gastar todo el pago que empezar a acumular capital. Además hay una brecha notable, este análisis no aplica si ya de entrada tienes un gran ingreso (1% mas rico del país), o si ya tenías un patrimonio por herencia. Aplica para quienes empezamos con sueldos moderados y no nos queremos quedar en el mismo nivel económico.
 
 > Sobre mi conocimiento: Mi formación profesional es en ciencias exactas pero se poco o nada sobre economía, lo que sé, lo he ido aprendiendo mientras exploro este nuevo tema que se vuelve cada vez mas importante. La idea de este post es mostrarte como ha sido este camino de descubrimiento para mi, las decisiones que he tomado y como es la visión de la economía colombiana para alguien que va aprendiendo mientras se enfrenta a desafíos.
 
@@ -24,7 +24,7 @@ Creo que como yo, hay muchas personas que la economía no es su fuerte y/o nunca
 ## Organiza tus ingresos y gastos
 EL primer paso es uno de los mas importantes, **consiste en empezar a organizar y monitorear de forma recurrente en que se nos va el dinero**. Puede ser tedioso pero nos da una visión mucho mejor de en que nos gastamos la plata, sobre todo los gastos hormiga que terminan acumulándose a final de mes y nos terminan quitando gran parte de nuestros ingresos. Es una disciplina que debe formarse cada vez que hagamos un gasto, o al menos al hacer un repaso mensual, lo importante es que sobre ese análisis podamos formar planes de acción en función de nuestras metas.
 
-Hay múltiples aplicaciones para eso en el celular, incluso algunas se conectan fácilmente a los bancos que utilicemos haciendo muuuy fácil la conciliación. No necesitamos ser contadores para llevar nuestras finanzas, debemos implemente ser organizados. La mayoría de las aplicaciones para este objetivo tienen se manejan con:
+Hay múltiples aplicaciones para eso en el celular, incluso algunas se conectan fácilmente a los bancos que utilicemos haciendo muuuy fácil la conciliación. No necesitamos ser contadores para llevar nuestras finanzas, debemos implemente ser organizados. La mayoría de las aplicaciones para este objetivo se manejan con:
   * Cuentas
   * Etiquetas
   
@@ -58,10 +58,10 @@ Hay muchas opciones, pero no somos versados en inversión así que no nos arries
 
 Usualmente la banca antigua no da nada de rentabilidad y aun cobra cuotas de manejo, pero ciertamente es mucho mas estable. De los bancos que puse en la tabla, podrán notar que tendremos comisiones reales sobre el 5% anual aproximadamente (al restarle inflación), lo cual no es mucho pero al menos es una forma de tener un ahorro rentable. Una tasa del 13% efectivo anual es incluso superior a algunos CDTs ofertados en el mercado, y por ejemplo con Nu, tenemos ingresos diarios en nuestra cuenta.
 
-*¿Que es el impuesto 4x1000?*
+**¿Que es el impuesto 4x1000?**  
 Ya vimos como debemos tener en cuenta la inflación para nuestro ahorro, ahora veamos el impuesto 4x1000. Es te impuesto nos quita 4 pesos sobre cada 1000 pesos que gastemos, parece poco, pero va acumulándose, entonces, si gastas un millón de pesos, tendrás que pagar 4000, y si mensualmente te gastas cuatro millones de pesos entonces habrás pagado 16000 pesos. Por tanto, si quieres ahorrar debes tener en cuenta este impuesto, entre mas transacciones hagas, mas se te cobrará.
 
-*Excepción del 4x1000*
+**Excepción del 4x1000**  
 Afortunadamente puedes marcar una cuenta bancaria para que no se te cobre este impuesto, ve y marca la cuenta que mas utilices, osea, desde la que mas hagas movimientos para minimizar este gasto, de esta forma podrás minimizar ese gasto.
 
 ## Comentarios finales
