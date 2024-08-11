@@ -45,9 +45,10 @@ social:
     # - https://www.linkedin.com/in/username
       - https://www.instagram.com/nn_inguneado
 
+      
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: gLbAtakA9utzMqY2X7_12rHwesLFghmqeNqaMqoEn64 # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
