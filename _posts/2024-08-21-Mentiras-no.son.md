@@ -6,6 +6,7 @@ categories: relato
 ---
 
 \- Tome sus veinte mil pesos.
+
 \- Patrón, pero si siempre han sido treinta
 
 \- Tu sabes como están las cosas ahora, todo está caro. Además, ¿sabes por cuanto me sale alquilar una maquina?... treinta mil pesos. Los treinta mil pesos que te estoy dando, eso es lo que vale, y me hace todo en dos horas, y solo tengo que pagar una. Además mira, les tengo que pagar también a los otros, ¿Si ves?, les estoy es haciendo un favor muchacho. Pero tienen que ayudarme pa' que los ayude.
@@ -55,7 +56,7 @@ El patrón forzó una risa burlesca.
 
 \- Bueno, ábrete hijueputa, malagradecido, acá no te aparezcas mas.
 
-Desde su casa escuchó las maquinas trabajando, y se las imaginó haciendo todo tan rápido y tan bien que las pensaba sembrabando en la mañana y en cosechando en la tarde. Los días le pasaron lentos y los sonidos de las máquinas cesaron poco a poco. Una de esas tardes uno de los muchachos llegó a su casa y lo vio flaco y enfermo en una mecedora vieja.
+Desde su casa escuchó las maquinas trabajando, y se las imaginó haciendo todo tan rápido y tan bien que las pensaba sembrabando en la mañana y cosechando en la tarde. Los días le pasaron lentos y los sonidos de las máquinas cesaron poco a poco. Una de esas tardes uno de los muchachos llegó a su casa y lo vio flaco y enfermo en una mecedora vieja.
 
 \- Ey, el patrón que te manda a buscar, nos va a pagar treinta mil otra ves, que llegues mañana tempranito.
 
