@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "¿Por qué no doy propina?"
-date:   2024-009-20 19:10:00 -0500
-categories:blog pensamiento
+title:  ¿Por qué no doy propina?
+date:   2024-09-20 19:10:00 -0500
+categories: blog pensamiento
 ---
 Cada ves se me hace mas difícil negar las propinas. En la cuenta ya está incluida y al momento de pagar se siente esa presión en el aire antes de decir "sin incluir la propina por favor" mientras el mesero te mira y te sientes culpable. Entre mas caro es un restaurante mas hay esa presión en los establecimientos. Todos saben que es opcional pero parece que fuera obligatorio y en algunos casos el servicio cambia en función de ello.
 
