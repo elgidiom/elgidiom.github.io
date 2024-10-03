@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Intentar ahorrar en Colombia II
 date: 2024-10-03 15:20:00 -0500
 categories: finanzas
