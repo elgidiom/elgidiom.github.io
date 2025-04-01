@@ -17,7 +17,7 @@ Ahora. Las cosas han cambiado un poco, ahora puedes decidir si trabajas o no par
 
 Ok, pero no seamos tan rudos. En realidad hay muchas mas comodidades que antes, ahora puedes comprarte un celular, o planear un viaje a créditos, o pagar a cuotas los medicamentos para la alopecia que te generó el estrés. Mira, aquí tengo que pararte, porque estás hablando el lenguaje de los esclavos.
 
-  ![El idioma de los esclavos](../assets/img/esclavoscrop.jpg){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
+  ![El idioma de los esclavos](/assets/img/esclavoscrop.jpg){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
   
 El estilo de vida cambió y el mínimo vital cambió, los precios de vivienda subieron, y hay que pagar servicios, eso significa que debes ganar mucho mas para vivir, y el salario mínimo cubre lo básico. En otras palabras, cubre lo que el patrón le cubría a sus esclavos, con la comodidad para el patrón, de que ahora tu te vas por tu cuenta y ves que haces.
 
@@ -43,7 +43,7 @@ La esclavitud no se ha ido, solo le cambiamos el nombre. Aún puedes ir mas abaj
 
 Lo primero en todo paso es el reconocimiento. Puro y duro, **no hemos abolido ninguna esclavitud**, y si es necesario, **soy un esclavo y no merezco estar en esta posición**. No seas como Stephen, el de la película [Django sin cadenas](https://www.imdb.com/title/tt1853728/), porque ahí inicia todo.
 
-![no seas como stephen](../assets/img/stephen.jpg){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
+![no seas como stephen](/assets/img/stephen.jpg){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
 
 Lo siguiente es empezar a ver que hacemos para abolir la esclavitud. Denunciar es una opción, unirse con otros trabajadores en situaciones similares es otra, pero sobre todo, ayudar a los de abajo, a los que están en situaciones precarias a entender que están en situaciones de desventaja y antinaturales.
 

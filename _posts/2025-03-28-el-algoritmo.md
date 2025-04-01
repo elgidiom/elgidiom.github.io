@@ -3,6 +3,7 @@ layout: post
 title: "El algoritmo"
 date: 2025-03-28 12:10:18 -05:00
 categories: pensamiento 
+image: "/assets/img/algoritmo-img.jpeg"
 ---
 
 Desde que vi este video: [Psicopolítica](https://www.youtube.com/watch?v=kuwFcvUa6-A), he tenido varias cosas en la mente sobre *el algoritmo*. Todos parecen saber que es el algoritmo, todos hablan del algoritmo, la gente dice cosas como.
@@ -13,7 +14,7 @@ Desde que vi este video: [Psicopolítica](https://www.youtube.com/watch?v=kuwFcv
 
 Con algoritmo nos referimos a las sugerencias que nos hacen las plataformas en la nube, como Meta, youtube, Spotify, Netflix, etc para mostrarnos lo que queremos ver. Hasta aquí todo bien.
 
-![Mr increible feliz](../assets/img/increible.jpg){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
+![Mr increible feliz](/assets/img/increible.jpg){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
 
 El tema acá es que el algoritmo tiene una aplicación mas oscura y ya lo veía Hang hace unos años cuando escribió *Neoliberalismo y nuevas técnicas de poder (2014)*.
 
@@ -27,7 +28,7 @@ Llegó la big data y la IA y lo que tenemos en frente es el mundo de la individu
 > El algoritmo nos aísla en nuestro propio sistema de verdad y convirtiendo la segmentación en un sistema de control.
 
 ## ¿Cual verdad?
-![algoritmo](../assets/img/algoritmo.jpg){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
+![algoritmo](/assets/img/algoritmo.jpg){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
 
 Al ver siempre el mismo contenido, refuerzas tu verdad y dejas de confrontar otras ideas. En una sociedad democrática, debatir es esencial, pero el algoritmo lo hace innecesario: cada quien vive en su burbuja, viendo solo lo que quiere ver.
 
@@ -37,7 +38,7 @@ Así, la verdad pierde significado. No hay consenso, solo certezas individuales.
 
 No necesitas instituciones. Necesitas que la gente se hate a si misma.
 
-![perro autopaseandose](../assets/img/perro.jpg)
+![perro autopaseandose](/assets/img/perro.jpg)
 
 Eso lo logras con hiperindividualidad, algoritmo y manipulación. Productividad, rapidez, hielo a las 6 a. m. te suena?, coincidencia?. Todo está milimétricamente puesto para moldear un discurso. Si ves una idea el tiempo suficiente, la aceptas. Ya no necesitas imposiciones, lo haces voluntariamente.
 
@@ -56,7 +57,7 @@ A esto se le llama Ads. Tomas un nicho, lo segmentas, lo bombardeas con anuncios
 
 Ahora dime, tú no harías lo mismo? Si fueras dueño del algoritmo, no usarías su poder para reforzar tus creencias?. No seamos ingenuos.
 
-![Mr increible dark](../assets/img/increibledark.png){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
+![Mr increible dark](/assets/img/increibledark.png){:style="display: block; margin-left: auto; margin-right: auto; max-width: 50%; height: auto;"}
 
 
 ## Como escapar
