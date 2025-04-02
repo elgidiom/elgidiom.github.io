@@ -2,7 +2,9 @@
 layout: post
 title: Intentar ahorrar en Colombia I
 date: 2024-08-07 12:35:00 -0500
-categories: finanzas
+categories: 
+  - finanzas
+image: "/assets/img/ahorrar1-img.png"
 ---
 
 Se que algunos se preguntan lo mismo que empecé a preguntarme hace unos meses, ¿como puedo conseguir un patrimonio?. Ya sea, para conseguir en algún punto libertad financiera, para inversión, o para tener un modo de que no se devalue la plata. 

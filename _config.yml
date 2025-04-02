@@ -29,10 +29,17 @@ github_username:  jekyll
 
 # Build settings
 
-theme: cleandmodern
+# theme: cleandmodern
 
-# plugins:
-#   - jekyll-feed
+paginate: 6
+paginate_path: "/page/:num"
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+remote_theme: elgidiom/cleandmodern
 
 # Exclude from processing.
 # The following items will not be processed, by default.

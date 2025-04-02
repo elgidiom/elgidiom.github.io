@@ -2,7 +2,9 @@
 layout: post
 title:  "Quien te dijo que abolieron la esclavitud?"
 date:   2025-02-28 00:30:00 -0500
-categories: Análisis 
+categories: 
+    - analisis
+image: "/assets/img/esclavitud2-img.png"
 ---
 
 >Lo que pasa es que tu no lo ves de esa forma. Pero la esclavitud está mas vigente que nunca.

@@ -2,7 +2,8 @@
 layout: post
 title:  "Mentiras no son"
 date:   2024-08-21 1f6:00:00 -0500
-categories: relato 
+categories: relato
+image: "/assets/img/mentiras-img.png"
 ---
 
 \- Tome sus veinte mil pesos.

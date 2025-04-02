@@ -2,14 +2,13 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.3"
 
-# Comenta o elimina minima si no vas a usar ese tema
-# gem "minima", "~> 2.5"
-
-# Usa tu tema local desde la carpeta donde tienes tu archivo gemspec
-gem "cleandmodern", path: "/home/juanda/jekyll/templatemodern"
+# No uses el tema local si estás probando el remoto
+# gem "cleandmodern", path: "/home/juanda/jekyll/cleandmodern"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate"
+  gem "jekyll-remote-theme"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do

@@ -2,7 +2,9 @@
 layout: post
 title:  "Ha pasado el tiempo"
 date:   2024-07-20 13:30:00 -0500
-categories: poema
+categories: 
+    - poema
+image: "/assets/img/hapasadoeltiempo-img.png"
 ---
 
 He aprendido a vivir,  

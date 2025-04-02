@@ -3,6 +3,7 @@ layout: post
 title: Intentar ahorrar en Colombia II
 date: 2024-10-03 15:20:00 -0500
 categories: finanzas
+image: "/assets/img/ahorrar2-img.png"
 ---
 
 Imagina que acabas de recibir tu salario y lo primero que piensas es: ¿No merezco darme un gustico? Tal vez quieres ese café especial o unas vacaciones. Pero, al mismo tiempo, te preocupa el futuro y la idea de no ahorrar lo suficiente te atormenta.

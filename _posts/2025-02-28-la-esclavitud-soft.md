@@ -2,7 +2,10 @@
 layout: post
 title:  "¿Quien te dijo que abolieron la esclavitud? (Soft version)"
 date:   2025-02-28 00:30:00 -0500
-categories: pensamiento 
+categories:
+    - analisis
+image: "/assets/img/esclavitud-img.png"
+
 ---
 
 >¿Quién te dijo que abolieron la esclavitud?

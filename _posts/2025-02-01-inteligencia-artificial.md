@@ -2,7 +2,8 @@
 layout: post
 title:  "Inteligencia artificial"
 date:   2025-02-01 00:55:00 -0500
-categories: relato 
+categories: relato
+image: "/assets/img/inteligencia-img.png"
 ---
 Su jefe deslizó la carta de despido sobre el escritorio pulido sin cruzar miradas. Marcos tomó el papel y recorrió rápidamente los elogios hipócritas que traen esas cartas. Observó a Ramiro jugueteando con los lápices en el vaso sobre el escritorio. Después de una segunda lectura, colocó la hoja con calma sobre la mesa. Ramiro lo miraba ahora y notó por primera vez como el tiempo los había envejecido a ambos; Se había visualizado jubilándose en más de una ocasión, saliendo por una puerta grande entre manos agradecidas. Frunció el ceño. "No entiendo", dijo tras un breve silencio. "¿Qué no entiendes?", lo miraba fijo. "Esto, este despido, ¿por qué?".
 
