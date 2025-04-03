@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate"
   gem "jekyll-remote-theme"
+  gem "html-proofer"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
