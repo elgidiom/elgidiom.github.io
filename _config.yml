@@ -23,9 +23,9 @@ description: "Sueno a que yo mismo llamo la nostalgia,
 sueno a que yo mismo atraigo la distancia."
 subtitle: "Inconstante blog de pensamientos"
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://elgidiom.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:  elgidiom
 
 # Build settings
 
