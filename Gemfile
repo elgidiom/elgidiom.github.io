@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.3"
-
+gem "base64"
+gem "bigdecimal"
 # No uses el tema local si estás probando el remoto
 # gem "cleandmodern", path: "/home/juanda/jekyll/cleandmodern"
 
@@ -10,6 +11,8 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-remote-theme"
   gem "html-proofer"
+  gem "csv"
+  gem "logger"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
