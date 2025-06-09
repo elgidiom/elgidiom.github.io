@@ -11,7 +11,7 @@ Recuerdo que mi profesor de mecánica nos decía, que para ver rápidamente si u
 
 Por ejemplo, el péndulo doble, es un problema popular porque es [un sistema caótico](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_caos) y cuando uno lo resuelve por primera vez aparecen unas ecuaciones gigantes (las pongo solo para referencia 🤣)
 
-$[
+$
   \ddot{\theta}_1 = \frac{
     -g(2m_1 + m_2) \sin(\theta_1)
     - m_2 g \sin(\theta_1 - 2\theta_2)
@@ -21,9 +21,9 @@ $[
   }{
     l_1 \left(2m_1 + m_2 - m_2 \cos(2\theta_1 - 2\theta_2)\right)
   }
-]$
+$
 
-$[
+$
   \ddot{\theta}_2 = \frac{
     2 \sin(\theta_1 - \theta_2) \left(
       \dot{\theta}_1^2 l_1 (m_1 + m_2)
@@ -33,7 +33,7 @@ $[
   }{
     l_2 \left(2m_1 + m_2 - m_2 \cos(2\theta_1 - 2\theta_2)\right)
   }
-]$
+$
 
 Y bueno, no tienes que leer esas monstruosidades, cuando tienes ecuaciones tan grandes no tienes forma rápida de saber si llegaste a una solución con sentido, pero puedes hacer el truco de los extremos, te explico. Este es el pendulo doble:
 
@@ -43,11 +43,11 @@ Para llevar el problema a los extremos, debes pensar en lo siguiente.
 
 Imaginate que la primera masa (la bolita de arriba) tiene una masa minúscula, super pequeña, casi imperceptible, entonces si te pones a pensar, en ese escenario extremo, la masa de arriba pesaría menos que la cuerda, es decir no debería afectar al movimiento de la segunda masa (la de abajo), es decir si la masa de la primera bolita es cero, tendríamos un péndulo simple (del cual conocemos muy bien la ecuación). Ese es el caso extremo, y resulta que si vas a las ecuaciones originales y haces que la masa sea cero, llegas de hecho a la ecuación del pendulo simple.
 
-$[
+$
   \ddot{\theta} = -\frac{g}{l} \sin(\theta)
-]$
+$
 
-Eso significa que las ecuaciones para el pendulo simple si tienen sentido, porque si las evalúas en los extremos te da el resultado que esperabas, en este caso, si la masa uno es cero (como si no estuviera ahí) el sistema debería comportarse como un sistema simple.
+Eso significa que las ecuaciones que encontramos para el péndulo doble si tienen sentido, porque si las evalúas en los extremos te da el resultado que esperabas (las ecuaciones del pendulo simple), en este caso, si la masa uno es cero (como si no estuviera ahí) el sistema debería comportarse como un sistema simple.
 
 Imagina que estás en el último examen de mecánica, acabas de resolver un problema complejo y quieres ver si tu ecuación hace sentido o debes ir a revisar algo en el procedimiento. Pues aplicas el método de los extremos, si te hace sentido puedes continuar, si la solución en el extremo te da algo sin sentido, hay que revisar.
 
@@ -86,8 +86,7 @@ La gig economy, es una forma de trabajo innovadora, no necesariamente es mala, n
 # La razón de fondo?
 Ya que traje el tema del Congo, pero en general la razón por la que gran parte de latinoamerica está en condiciones similares, es simple, porque no tenemos un patrimonio. Lo que pasó en el Congo fue eso, llegaron las guerras, les quitaron las tierras, los explotaron y quedó un montón de gente pobre que tiene que elegir entre trabajar como esclavo o morirse de hambre.
 
-No será difícil hacer el símil con nuestras cercanas tierras. La gente no tiene opciones reales, tiene opciones de vida o muerte, en esos casos solo hay una opción, por eso la precarización sistemática es necesaria desde abajo, que la gente no tenga patrimonio es necesario desde abajo, que la gente *necesite* trabajar por lo que sea es necesario desde abajo, al final la economía mundial [está sostenida por esclavos.
-](https://elgidiom.com/analisis/2025/02/28/la-esclavitud.html).
+No será difícil hacer el símil con nuestras cercanas tierras. La gente no tiene opciones reales, tiene opciones de vida o muerte, en esos casos solo hay una opción, por eso la precarización sistemática es necesaria desde abajo, que la gente no tenga patrimonio es necesario desde abajo, que la gente *necesite* trabajar por lo que sea es necesario desde abajo, al final la economía mundial [está sostenida por esclavos](https://elgidiom.com/analisis/2025/02/28/la-esclavitud.html).
 
 # Pero no sé
 En estos días tenía pensado comprar un computador, y si no fuera por esa gente que regala su cobalto, me costaría como 5 veces más de lo que voy a pagar. Además, si me da hambre puedo pedir a domicilio, al final y no es muy caro. Esas cosas me benefician mas que lo que me afectan, es más...  
