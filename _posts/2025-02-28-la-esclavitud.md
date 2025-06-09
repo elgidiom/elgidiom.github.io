@@ -35,7 +35,7 @@ Osea, te la pongo simple:
 
 > La economía mundial está siendo mantenida por esclavos.
 
-Porque aunque el CEO de X compañía levante 1 billón de dolares con su nuevo producto, en la cadena de producción, la verdad es que el la mitad de las personas que directa o indirectamente han contribuido a eso **son esclavos**.
+Porque aunque el CEO de X compañía levante 1 billón de dolares con su nuevo producto, en la cadena de producción, la verdad es que la mitad de las personas que directa o indirectamente han contribuido a eso **son esclavos**.
 
 Lo que pasa es que tu no lo ves. Porque te ha dado duro la idea de que te lo has ganado todo y ya no frecuentas los mismos sitios que antes, y no sabes que al man que le pagaste la propina en el restaurante, le están pagando con eso, y lleva desde 7am llevando pedidos y ya le duelen las manos.
 
