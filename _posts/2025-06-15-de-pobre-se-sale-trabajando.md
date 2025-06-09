@@ -87,7 +87,7 @@ La gig economy, es una forma de trabajo innovadora, no necesariamente es mala, n
 Ya que traje el tema del Congo, pero en general la razón por la que gran parte de latinoamerica está en condiciones similares, es simple, porque no tenemos un patrimonio. Lo que pasó en el Congo fue eso, llegaron las guerras, les quitaron las tierras, los explotaron y quedó un montón de gente pobre que tiene que elegir entre trabajar como esclavo o morirse de hambre.
 
 No será difícil hacer el símil con nuestras cercanas tierras. La gente no tiene opciones reales, tiene opciones de vida o muerte, en esos casos solo hay una opción, por eso la precarización sistemática es necesaria desde abajo, que la gente no tenga patrimonio es necesario desde abajo, que la gente *necesite* trabajar por lo que sea es necesario desde abajo, al final la economía mundial [está sostenida por esclavos.
-](/analisis/2025/02/27/la-esclavitud.html).
+](https://elgidiom.com/analisis/2025/02/28/la-esclavitud.html).
 
 # Pero no sé
 En estos días tenía pensado comprar un computador, y si no fuera por esa gente que regala su cobalto, me costaría como 5 veces más de lo que voy a pagar. Además, si me da hambre puedo pedir a domicilio, al final y no es muy caro. Esas cosas me benefician mas que lo que me afectan, es más...  
