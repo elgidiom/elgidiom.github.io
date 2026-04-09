@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Portada atmosférica para el post Pobres tiene que haber siempre</title>
+  <desc id="desc">Una escena nocturna con edificios oscuros, ventanas encendidas y una figura solitaria en la calle.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1720"/>
+      <stop offset="55%" stop-color="#10212a"/>
+      <stop offset="100%" stop-color="#1d2626"/>
+    </linearGradient>
+    <linearGradient id="street" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#101716"/>
+      <stop offset="100%" stop-color="#060808"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#89a6a4" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#f3b56e" stop-opacity=".06"/>
+    </linearGradient>
+    <filter id="blur-sm" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="blur-lg" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="17"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.06"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <rect y="470" width="1200" height="160" fill="url(#street)"/>
+
+  <g opacity=".9">
+    <rect x="0" y="145" width="250" height="325" fill="#121a1b"/>
+    <rect x="210" y="110" width="220" height="360" fill="#161c1c"/>
+    <rect x="380" y="80" width="260" height="390" fill="#1b2120"/>
+    <rect x="620" y="125" width="230" height="345" fill="#13191a"/>
+    <rect x="805" y="65" width="230" height="405" fill="#0f1719"/>
+    <rect x="995" y="145" width="205" height="325" fill="#151c1d"/>
+  </g>
+
+  <g fill="#0d1213" opacity=".55">
+    <rect x="55" y="182" width="130" height="245"/>
+    <rect x="245" y="145" width="105" height="280"/>
+    <rect x="438" y="118" width="138" height="305"/>
+    <rect x="672" y="160" width="112" height="262"/>
+    <rect x="850" y="103" width="135" height="318"/>
+    <rect x="1040" y="172" width="96" height="250"/>
+  </g>
+
+  <g>
+    <rect x="93" y="210" width="58" height="40" fill="#92c3cf" opacity=".28"/>
+    <rect x="278" y="180" width="48" height="36" fill="#f0bd75" opacity=".72"/>
+    <rect x="278" y="238" width="48" height="36" fill="#7ea1b6" opacity=".35"/>
+    <rect x="462" y="154" width="64" height="42" fill="#f1b163" opacity=".78"/>
+    <rect x="548" y="154" width="44" height="42" fill="#7ca2a4" opacity=".3"/>
+    <rect x="462" y="224" width="44" height="34" fill="#84b0c1" opacity=".34"/>
+    <rect x="530" y="224" width="62" height="34" fill="#f7cf8b" opacity=".58"/>
+    <rect x="707" y="206" width="50" height="36" fill="#f3bc7b" opacity=".7"/>
+    <rect x="707" y="260" width="50" height="36" fill="#7ea9b8" opacity=".32"/>
+    <rect x="876" y="140" width="58" height="40" fill="#94d2da" opacity=".3"/>
+    <rect x="954" y="140" width="50" height="40" fill="#f0b46b" opacity=".68"/>
+    <rect x="876" y="206" width="58" height="32" fill="#eeb06a" opacity=".58"/>
+    <rect x="954" y="206" width="50" height="32" fill="#95bfd4" opacity=".24"/>
+    <rect x="1060" y="230" width="44" height="35" fill="#f4c982" opacity=".75"/>
+  </g>
+
+  <g filter="url(#blur-lg)">
+    <ellipse cx="913" cy="175" rx="210" ry="145" fill="#63a8b5" opacity=".13"/>
+    <ellipse cx="496" cy="230" rx="250" ry="170" fill="#efb36a" opacity=".1"/>
+    <ellipse cx="990" cy="430" rx="290" ry="72" fill="#f0a25d" opacity=".12"/>
+  </g>
+
+  <g stroke="#d9e1e0" stroke-opacity=".12">
+    <line x1="150" y1="0" x2="70" y2="630"/>
+    <line x1="322" y1="0" x2="245" y2="630"/>
+    <line x1="510" y1="0" x2="432" y2="630"/>
+    <line x1="738" y1="0" x2="650" y2="630"/>
+    <line x1="922" y1="0" x2="852" y2="630"/>
+    <line x1="1118" y1="0" x2="1042" y2="630"/>
+  </g>
+
+  <g>
+    <rect x="0" y="470" width="1200" height="160" fill="#0a0d0c" opacity=".58"/>
+    <rect x="612" y="486" width="14" height="80" rx="2" fill="#121715"/>
+    <circle cx="620" cy="468" r="18" fill="#141817"/>
+    <rect x="602" y="565" width="12" height="48" rx="6" fill="#121615"/>
+    <rect x="626" y="565" width="12" height="48" rx="6" fill="#121615"/>
+  </g>
+
+  <path d="M0 497 C110 485, 210 520, 315 505 S545 486, 690 510 S920 526, 1200 496 L1200 630 L0 630 Z" fill="#050606" opacity=".82"/>
+
+  <rect width="1200" height="630" fill="url(#mist)" opacity=".55"/>
+  <rect width="1200" height="630" filter="url(#grain)" opacity=".65"/>
+  <rect width="1200" height="630" fill="#041012" opacity=".16"/>
+</svg>
