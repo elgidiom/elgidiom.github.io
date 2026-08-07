@@ -6,6 +6,7 @@ categories:
   - analisis
 image: "/assets/img/bandidos-portada.jpg"
 excerpt: "Se inventaron los heroes para hacernos creer que existen."
+published: false
 ---
 
 Si uno ve 10 películas, 7 van a ser tramas recicladas del viaje del héroe. Cuando reconoces el patrón te empieza a parecer que todas las historias se repiten.
